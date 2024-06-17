@@ -13,7 +13,7 @@ chatgpt 微信小程序
 
 ## 产品展示
 
-<img src="https://github.com/dylanXM/chatgpt-next-weapp/assets/62923146/410e6753-0b1a-410d-9930-111dd092353c" width="275" height="488" align="center" />
+<img src="https://github.com/dylanXM/chatgpt-next-weapp/assets/62923146/410e6753-0b1a-410d-9930-111dd092353c" width="275" height="500" align="center" />
 
 ## 体验
 
