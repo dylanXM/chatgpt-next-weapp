@@ -27,5 +27,4 @@ chatgpt 微信小程序
 
 ## 如果你觉得不错，可以请我喝杯咖啡
 
-<img src="https://github.com/dylanXM/chatgpt-next-weapp/assets/62923146/a2399ffc-f89a-4466-be58-27bde23f512b" width="235" height="235" />
-
+<img src="https://github.com/dylanXM/chatgpt-next-weapp/assets/62923146/cfe513d1-09fb-473b-919e-02cfa4348afc" width="235" height="235" />
