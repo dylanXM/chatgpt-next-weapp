@@ -17,7 +17,8 @@ chatgpt 微信小程序
 
 ## 体验
 
-![gh_8ed77159c78d_1280](https://github.com/dylanXM/chatgpt-next-weapp/assets/62923146/ab5125ae-87a5-4548-8d8b-f836c64dc1a8#pic_center)
+<img src="https://github.com/dylanXM/chatgpt-next-weapp/assets/62923146/ab5125ae-87a5-4548-8d8b-f836c64dc1a8" width="235" height="235" />
+
 
 ## 联系我（请备注来源、目的）
 
